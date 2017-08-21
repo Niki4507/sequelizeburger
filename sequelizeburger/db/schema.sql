@@ -7,5 +7,3 @@ CREATE TABLE burgers (
 	date timestamp,
 	primary key (id)
 );
-
--- NEEDS TO BE CHECKED
